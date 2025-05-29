@@ -1,0 +1,20 @@
+---
+name: Sérgio Henrique da Silva
+description: Este portal tem como objetivo ser um landing page da UAI do IFPB.
+addresses:
+  preview: https://raw.githubusercontent.com/ifpb/ifpb.github.io/main/preview.png
+  homepage: https://ifpb.github.io/SERGIO-20202/NetAdmin-RT
+  repository: https://github.com/SERGIO-20202/NetAdmin-RT.git
+  category:
+  type: subject
+  subject: ls
+  period: 2
+  semester: 2025.1
+  course: cstrc
+  campus: ifpb-jp
+tags:
+  - js
+  - astro.js
+owners:
+  - 20202380045
+---
